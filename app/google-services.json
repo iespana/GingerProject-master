@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084121669821",
+    "firebase_url": "https://wallet-2fbe5.firebaseio.com",
+    "project_id": "wallet-2fbe5",
+    "storage_bucket": "wallet-2fbe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084121669821:android:0dec01284a6fb3c8",
+        "android_client_info": {
+          "package_name": "com.example.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084121669821-823rvi7ti9vnu6604e6l5esop42bnnn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGig4WUd9zIK_5L_u2fQVCS8Gr3k4T2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084121669821-823rvi7ti9vnu6604e6l5esop42bnnn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
